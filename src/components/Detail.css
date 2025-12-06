@@ -1,0 +1,27 @@
+.detail-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.detail-header {
+  margin-bottom: 20px;
+}
+
+.detail-content {
+  background-color: transparent;
+  padding: 20px 0;
+}
+
+.detail-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 12px;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.detail-info p {
+  margin: 15px 0;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
